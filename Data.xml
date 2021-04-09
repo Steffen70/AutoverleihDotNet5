@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <persons>
+    <Person>
+      <Name>Demo</Name>
+      <Vorname>Demo</Vorname>
+      <Email>Demo</Email>
+      <Anzeige>Demo Demo, Demo</Anzeige>
+    </Person>
+  </persons>
+  <autos>
+    <Auto>
+      <Hersteller>Demo</Hersteller>
+      <Typ>Demo</Typ>
+      <Autonummer>Demo</Autonummer>
+      <Preis>180</Preis>
+      <Anzeige>Demo Demo, 180 CHF</Anzeige>
+    </Auto>
+  </autos>
+  <buchungen />
+</Data>
